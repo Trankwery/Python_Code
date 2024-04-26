@@ -11,8 +11,8 @@ def fib (F):
         a.append(a[b-2]+a[b-1])
         b=len(a)
 
-    print (a)
-    print (a[b-1])
+    ##print (a)
+    ##print (a[b-1])
     
         
     return a[b-1]
